@@ -1,0 +1,5 @@
+home = C:\Users\Rohan\AppData\Local\Programs\Python\Python312
+include-system-site-packages = false
+version = 3.12.1
+executable = C:\Users\Rohan\AppData\Local\Programs\Python\Python312\python.exe
+command = C:\Users\Rohan\AppData\Local\Programs\Python\Python312\python.exe -m venv C:\Users\Rohan\Desktop\IMP\Projects\Django\Puddle\env
