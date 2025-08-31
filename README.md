@@ -60,5 +60,5 @@ Want to improve Fuddle? Open an **issue** or submit a **PR**!
 
 
 ---  
-🍲 **Join the movement—waste less, share more!**  
+🍲 **Join the movement: waste less, share more!**  
 
